@@ -1,7 +1,7 @@
 {
-  "name": "google-panorama-equirectangular",
+  "name": "node-google-panorama-equirectangular",
   "version": "1.0.0",
-  "description": "Get google panorama streetview image by id (based on jimp)",
+  "description": "Get google panorama streetview image by id (based on jimp), such google-panorama-equirectangular for node applications",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
@@ -23,5 +23,9 @@
   "bugs": {
     "url": "https://github.com/idjitjohn/node-google-panorama-equirectangular/issues"
   },
-  "homepage": "https://github.com/idjitjohn/node-google-panorama-equirectangular#readme"
+  "homepage": "https://github.com/idjitjohn/node-google-panorama-equirectangular#readme",
+  "dependencies": {
+    "jimp": "^0.8.4",
+    "request": "^2.88.0"
+  }
 }
