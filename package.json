@@ -1,0 +1,27 @@
+{
+  "name": "google-panorama-equirectangular",
+  "version": "1.0.0",
+  "description": "Get google panorama streetview image by id (based on jimp)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idjitjohn/node-google-panorama-equirectangular.git"
+  },
+  "keywords": [
+    "node",
+    "google",
+    "panorama",
+    "equirectangular",
+    "streetview",
+    "image"
+  ],
+  "author": "idjitjohn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/idjitjohn/node-google-panorama-equirectangular/issues"
+  },
+  "homepage": "https://github.com/idjitjohn/node-google-panorama-equirectangular#readme"
+}
